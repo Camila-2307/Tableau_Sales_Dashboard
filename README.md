@@ -9,6 +9,7 @@ Interactive Tableau Dashboard analyzing sales performance
   - Excel
 
 ## Dashboard
+![Tableau_Dashboard](Tableau_Dashboard.png)
 
 ## Business Insights
 Coming Soon
